@@ -5,21 +5,21 @@
   
 ## He/Him/Jim
 
-I am a Data Scientist in the Data Science Research team at [Smart Data Foundry](https://smartdatafoundry.com/), Edinburgh. 
-
-I'm a big **R** fan, with an interest in software development and Data Engineering. 
+I'm a Data Science / MLOps Engineer in the Data Science team at [Smart Data Foundry](https://smartdatafoundry.com/), Edinburgh. 
 
 I take great pleasure in eliminating friction at work and encouraging people to share practices where it feels right.
 
-I am a collaborator on the [lambdr](https://github.com/mdneuzerling/lambdr) R package. **lambdr** is an R runtime for _AWS Lambda_, making it possible to deploy R code as containerised _Lambda_ functions.
+I'm a social media volunteer for the [Edinburgh PostgreSQL](https://luma.com/PostgresEDI) meetups!
 
-My side project is working through the backend engineering course at [boot.dev](boot.dev).
+I used to be a collaborator on the [lambdr](https://github.com/mdneuzerling/lambdr) R package. **lambdr** is an R runtime for _AWS Lambda_, making it possible to deploy R code as containerised _Lambda_ functions.
+
+My side project is learning Mandarin (2026). Just for fun! :)
 
 ## Toolkit
 
 - *nix shells (zsh, bash)
-- R
 - Python
+- R
 - SQL (Postgres, DuckDB)
 - Quarto
 - Containers (Docker, Podman)
@@ -32,9 +32,4 @@ My side project is working through the backend engineering course at [boot.dev](
 - Neovim (by the way)
 - VS Code
 - RStudio
-
-## Learning
-
-- Go
-- JavaScript (vanilla)
 
